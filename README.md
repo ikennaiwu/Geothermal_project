@@ -36,7 +36,7 @@ Due to **confidentiality agreements**, raw field data **cannot be shared**. Howe
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/geothermal-ai-optimisation.git
+git clone https://github.com/ikennaiwu/Geothermal_project.git
 cd geothermal-ai-optimisation
 
 ### 2.Set Up Virtual Environment
