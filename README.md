@@ -56,12 +56,12 @@ pip install -r requirements.txt
 python geothermal_optimisation.py
 
 ### 5.Expected Output
-✅ LSTM R² = 0.92
-✅ SAC training complete
-📊 FINAL RESULTS (Aligned with Table 4):
+LSTM R² = 0.92
+SAC training complete
+FINAL RESULTS (Aligned with Table 4):
 Baseline:     100.0 hrs
 Optimized:    95.9 hrs
 Reduction:    4.1%
-✅ Saved: final_geothermal_results.png
+Saved: final_geothermal_results.png
 
 
