@@ -32,7 +32,7 @@ Due to **confidentiality agreements**, raw field data **cannot be shared**. Howe
 
 ---
 
-## 🚀 How to Reproduce Results
+##  How to Reproduce Results
 
 ### 1. Clone the Repository
 ```bash
